@@ -1,4 +1,5 @@
-Welcome to the repository of the "Maneki Neko" project – a web platform for successful advertising and business development. This project is designed to provide convenient tools for promoting products and services, as well as sharing experience in web development.
+Welcome to the repository of the "Maneki Neko" project – a web platform for successful advertising and business development. 
+This project is designed to provide convenient tools for promoting products and services, as well as sharing experience in web development.
 
 Key features:
 📢 Informativeness: We present useful information about the capabilities of the Maneki Neko platform.
